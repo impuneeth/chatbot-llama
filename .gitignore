@@ -1,0 +1,9 @@
+/env
+.env
+__pycache__
+/chroma
+
+*.ipynb
+/models
+
+secrets.toml
