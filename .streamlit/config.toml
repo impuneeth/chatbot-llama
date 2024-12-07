@@ -13,3 +13,4 @@ showSidebarNavigation=false
 [theme]
 font = "sans serif"
 primaryColor="#FFFF"
+base="dark"
